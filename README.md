@@ -2,7 +2,7 @@
 Shop information
 
 Baker:
-Mr. DANUQ (Exquisite 3-star Michelin star bakery chef)
+Mr. DANUQ (Exquisite 16-star Michelin star bakery chef)
 
 Time open:
 Everyday from 9am to 6pm (Except wednesday)

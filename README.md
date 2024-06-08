@@ -20,9 +20,9 @@ Phone Number:
 
 Cake flavours:
 Chocolate (Available)
-Vanilla (Unavailable)
+Vanilla (Available)
 Strawberry (Unavailable)
-Blueberry (Unavailable)
+Blueberry (Available)
 
 Icing flavours:
 Chocolate (Available)
